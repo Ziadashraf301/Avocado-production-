@@ -307,6 +307,12 @@ ggplot(avocado_data_long, aes(x = Year, y = Production/1000000, group = Country,
 
 ![](Avocado-production_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
 
+``` r
+knitr::include_graphics("avocado_production.png")
+```
+
+![](avocado_production.png)<!-- -->
+
 Mexico is the biggest avocado-producing country, with 2.4 million metric
 tons in 2020. Over time, it has dominated global avocado production. The
 Dominican Republic has now emerged as a reliable producer over time.
